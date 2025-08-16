@@ -6,12 +6,12 @@ The dataset was cleaned, preprocessed, and balanced using downsampling before tr
 
 **Features**
 
-✔️ Data cleaning & preprocessing (handling missing values, encoding categorical variables)
-✔️ Exploratory Data Analysis (EDA) with histograms, boxplots, and correlation heatmaps
-✔️ Addressed class imbalance using downsampling
-✔️ Model training with Random Forest + GridSearchCV
-✔️ Evaluation using cross-validation, confusion matrix, classification report
-✔️ Model saving with Pickle for future predictions
+1. Data cleaning & preprocessing (handling missing values, encoding categorical variables)
+2. Exploratory Data Analysis (EDA) with histograms, boxplots, and correlation heatmaps
+3. Addressed class imbalance using downsampling
+4. Model training with Random Forest + GridSearchCV
+5. Evaluation using cross-validation, confusion matrix, classification report
+6. Model saving with Pickle for future predictions
 
 **Workflow**
 
